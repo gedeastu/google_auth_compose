@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473211876749",
+    "project_id": "auth-f5674",
+    "storage_bucket": "auth-f5674.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473211876749:android:98d9d99962fad042a3f9c4",
+        "android_client_info": {
+          "package_name": "com.example.googleauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6rk8QBKcDW2spSSiyGiYHwQGD1gU5nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
