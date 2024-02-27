@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    //id("com.google.gms.google-services")
+    id("com.google.gms.google-services")
 }
 
 android {
@@ -70,6 +70,7 @@ dependencies {
 
     implementation("com.google.firebase:firebase-auth-ktx:22.3.1")
     implementation("com.google.android.gms:play-services-auth:21.0.0")
+    //implementation("com.google.gms:google-services:4.4.1")
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
