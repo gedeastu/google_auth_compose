@@ -1,6 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
+    //id("com.google.gms.google-services")
 }
 
 android {
@@ -75,6 +76,6 @@ dependencies {
 
     implementation("androidx.navigation:navigation-compose:2.7.7")
 
-    implementation("io.coil-kt:coil:2.6.0")
+    implementation("io.coil-kt:coil-compose:2.6.0")
 
 }

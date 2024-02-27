@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.googleauth" />
+                  <option name="mobileSdkAppId" value="1:473211876749:android:98d9d99962fad042a3f9c4" />
+                  <option name="projectId" value="auth-f5674" />
+                  <option name="projectNumber" value="473211876749" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
